@@ -3,6 +3,7 @@
 ## 1 – Excursion
 
 Low Kerbin Orbit
+
 Year 2870, Common Era
 
 A small, conical pod floated in free-fall around Kerbin. Suddenly, it fired its thrusters, increasing its speed, and the pod flew towards the Orbital Drydock Facility, known more commonly as the Kerbin Spacedock.
@@ -24,6 +25,8 @@ Then came the difficult choice of choosing who to put on the _Scalpel_.
 The mission planners had estimated – at the very minimum – thirty years for the journey. Twenty years and change for the acceleration and cruise phase, including the return journey, and around ten years to explore the radiobright star itself. They needed a strong crew, and crewkerbs that worked well together – after all, they would be stuck on a cramped starship together for the majority of their lives. Besides, most of the ship was not meant for habitation, and that meant only twenty Kerbals could be aboard the _Scalpel_. There had to be civilians, non-Kerbin Fleet officers, aboard the ship, which only complicated the decision.
 
 The decision was very difficult to make; potential crew rosters were drawn up, the potential crew underwent a psychological test, and a complete medical checkup was conducted on all of the potential crew members. Eventually, the mission planners came to an agreement. Assignment letters were sent out to the selected ones, and – to the mission planners&#39; surprise – not a single one of the selected twenty declined the offer. Of course, the mission planners had anticipated refusals – thirty years away from family was an awfully large request to make of the officers – but none had refused, and so the mission planners quietly vaporized the backup crew rosters.
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 Two Kerbals sat inside the pod, silently contemplating the vastness of space. Suddenly, the computer beeped.
 
