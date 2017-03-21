@@ -2,9 +2,7 @@
 
 ## 1 – Excursion
 
-Low Kerbin Orbit
-
-Year 2870, Common Era
+Low Kerbin Orbit - Year 2870, Common Era
 
 A small, conical pod floated in free-fall around Kerbin. Suddenly, it fired its thrusters, increasing its speed, and the pod flew towards the Orbital Drydock Facility, known more commonly as the Kerbin Spacedock.
 
