@@ -12,7 +12,7 @@ The two Fleet officers assumed their position at the front of the room, with the
 
 Suddenly, the door opened, and Admiral Hansy entered. He assumed his position at the podium, and the room quieted down. As the most senior officer in the room, other than Hansy, Edgun directed the drill.
 
-&quot;Admiral on DECK! **ATTEN-**** SHUN!**&quot; Edgun roared in true military style, stood stiffer than a steel rod, and whipped off a salute towards the admiral. The four other Fleet officers at the front of the room followed suit, snapping to attention and saluting the admiral. The civilian officers stood only at attention; they did not need to salute the admiral, as they weren&#39;t military.
+&quot;Admiral on DECK! **ATTEN-*SHUN!***&quot; Edgun roared in true military style, stood stiffer than a steel rod, and whipped off a salute towards the admiral. The four other Fleet officers at the front of the room followed suit, snapping to attention and saluting the admiral. The civilian officers stood only at attention; they did not need to salute the admiral, as they weren&#39;t military.
 
 A small smile played across the admiral&#39;s face, but he remained serious. Then, he returned the salute, and gave the command. &quot;At ease.&quot;
 
