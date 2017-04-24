@@ -1,23 +1,7 @@
 # Part II – Relay
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 6 – The Station
 
-Central Information Center, KFS _Scalpel_
-Ten Years Later – KD 8032.3
+Central Information Center, KFS _Scalpel_ - Ten Years Later – KD 8032.3
 
 &quot;Captain, sensors are indicating an anomalous object in orbit of 1451-1 R3III 203,&quot; Katbeth reported. Her console had been beeping insistently, which either meant trouble or a new discovery.
 
@@ -44,6 +28,8 @@ Megdia grinned. &quot;I was the top of my class in superluminal travel,&quot; sh
 &quot;It appears to be a station of some sort,&quot; Katbeth said, taking a look at her console. &quot;The interior is a Kerbin-standard atmosphere, though I detect no sign of life, sapient or otherwise.&quot;
 
 &quot;We&#39;ll have to find out. Commander Enman, as my first officer, you&#39;ll lead the boarding party. I&#39;ll have Counselor Tigan – standard procedure for First Contact requires the ship&#39;s counselor to accompany the command-grade officer – and Crewkerb Lembo, the linguist, join you,&quot; Edgun said. He tapped a button on the captain&#39;s chair, and addressed the pickup. &quot;Counselor Tigan and Crewkerb Lembo, report to the dorsal airlock at once.&quot; Turning off the comm, he turned to Enman. &quot;Commander, the same goes for you.&quot;
+
+---
 
 The three officers suited up in the airlock, donning their extravehicular suits, along with the frictomag boots and thruster packs – relatively standard kit, anyway. The frictomag boots allowed for easier mobility whilst traversing the _Scalpel_&#39;s ferrous hull; the thruster packs would be engaged once they were free of the hull and in space. The packs really weren&#39;t needed – a sufficiently powerful jump could, in theory, propel the user to the destination – but it was better to be safe than sorry.
 
@@ -109,35 +95,37 @@ Within minutes, the autopilot brought them to a depressurized airlock. Enman man
 
 The station&#39;s interior was rather spartan; there were only a few computer terminals scattered here and there, airlocks leading to and from the interior, and a somewhat large screen at the center. However, something completely unexpected happened; upon the boarding party&#39;s entry, the station&#39;s artificial intelligence awakened, and issued forth a verbal message in – surprisingly – perfectly fluent and standard Kerblish.
 
-Relay Alpha artificial intelligence system activated. Three sapient life forms detected. Species identification subroutine engaged. Species identification successful: _Kerbal sapiens_.
+`Relay Alpha artificial intelligence system activated. Three sapient life forms detected. Species identification subroutine engaged. Species identification successful: Kerbal sapiens.`
 
 Enman addressed the AI. &quot;I am Commander Christopher Enman of the starship _Scalpel_, the flagship of the Kerbin Fleet. We hail from a star named Kerbol, ten light-years distant. The _Scalpel_ is on an exploratory mission.&quot;
 
-Please dispense with the so-called &quot;First Contact&quot; procedures, as you call it. I understand that you are of Kerbol. By analyzing your primitively faint radio signals, I have pieced together a lingua matrix; with the matrix, I am able to converse with you in standard Kerblish.
+`Please dispense with the so-called &quot;First Contact&quot; procedures, as you call it. I understand that you are of Kerbol. By analyzing your primitively faint radio signals, I have pieced together a lingua matrix; with the matrix, I am able to converse with you in standard Kerblish.`
 
 &quot;How did you receive our signals?&quot;
 
-I am unable to reveal that. For my database to be accessed, a prerequisite assessment must be completed first.
+`I am unable to reveal that. For my database to be accessed, a prerequisite assessment must be completed first.`
 
 &quot;What is the prerequisite assessment?&quot;
 
-To ensure that my database is viewed only by those who can interpret it, a basic language course must be completed by anyone who wishes to access it.
+`To ensure that my database is viewed only by those who can interpret it, a basic language course must be completed by anyone who wishes to access it.`
 
 &quot;Is it agreeable to you, Relay Alpha –?&quot;
 
-Please, just Alpha.
+`Please, just Alpha.`
 
 &quot;– very well, _Alpha_. We are not the only crew aboard the _Scalpel_. In fact, there will probably a few more boarding parties following ours. Is it agreeable to you if this current boarding party completes the basic language course on behalf of the later boarding parties?&quot;
 
-That is acceptable. You are sure that the boarding parties later are at the same literary level as you?
+`That is acceptable. You are sure that the boarding parties later are at the same literary level as you?`
 
 &quot;Positive.&quot;
 
-Very well. Please proceed to one of the computer terminals, and I shall upload the assessment to that terminal.
+`Very well. Please proceed to one of the computer terminals, and I shall upload the assessment to that terminal.`
 
 The trio proceeded to one of the active computer terminals, which there weren&#39;t a lot of. The AI understood, and uploaded the assessment to that particular terminal. Once the assessment was successfully uploaded, it spoke again.
 
-You will be given one hour to complete this assessment. The timer begins now.
+`You will be given one hour to complete this assessment. The timer begins now.`
+
+---
 
 &quot;Boarding Party to _Scalpel_.&quot;
 
@@ -163,6 +151,8 @@ You will be given one hour to complete this assessment. The timer begins now.
 
 &quot;_Acknowledged._ Scalpel _out._&quot;
 
+---
+
 _Shuttle One_&#39;s cargo hold opened with a _psshh_ sound, and Lieutenant Dorod and six other scientists crawled into the cabin through the hold. The shuttle was only rated to carry six kerbals, but another wouldn&#39;t do much harm. Dorod assumed the pilot&#39;s chair, at the front of the shuttle, and the scientists sat down in the passenger seats.
 
 Dorod tapped the comm. &quot;_Shuttle One_ to _Scalpel_. Ready for undocking.&quot;
@@ -179,8 +169,8 @@ Finally, the shuttles reached the docking hub, and moved in to dock with the sta
 
 The hub led to the central area, where the initial boarding party had remained since the encounter with Alpha (except for Enman, of course, who had made a brief excursion to plant the portable beacon near the docking hub). During the time the pair of shuttles took to transit to the station, Alpha had made active six additional terminals, bringing the total count up to twelve; the exact number of Operations and Sciences crewkerbs aboard the _Scalpel_.
 
-The terminals are active and ready for you to commence your research. After I have finished speaking, Commander Enman will show you to your berths. Meals, which are from the station&#39;s food stores, will be served thrice a day.
+`The terminals are active and ready for you to commence your research. After I have finished speaking, Commander Enman will show you to your berths. Meals, which are from the station&#39;s food stores, will be served thrice a day.`
 
 At this, there was much jubilation among the crew; they had eaten nothing but algae paste and vegetables for ten years, and they were ready for a change.
 
-My speech has concluded. Commander, if you&#39;ll show the scientists to their berths. It is late, and you must be well-rested in order to efficiently assimilate information.
+`My speech has concluded. Commander, if you&#39;ll show the scientists to their berths. It is late, and you must be well-rested in order to efficiently assimilate information.`
