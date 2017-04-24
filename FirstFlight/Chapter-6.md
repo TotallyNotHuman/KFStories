@@ -99,7 +99,7 @@ The station&#39;s interior was rather spartan; there were only a few computer te
 
 Enman addressed the AI. &quot;I am Commander Christopher Enman of the starship _Scalpel_, the flagship of the Kerbin Fleet. We hail from a star named Kerbol, ten light-years distant. The _Scalpel_ is on an exploratory mission.&quot;
 
-`Please dispense with the so-called &quot;First Contact&quot; procedures, as you call it. I understand that you are of Kerbol. By analyzing your primitively faint radio signals, I have pieced together a lingua matrix; with the matrix, I am able to converse with you in standard Kerblish.`
+`Please dispense with the so-called "First Contact" procedures, as you call it. I understand that you are of Kerbol. By analyzing your primitively faint radio signals, I have pieced together a lingua matrix; with the matrix, I am able to converse with you in standard Kerblish.`
 
 &quot;How did you receive our signals?&quot;
 
@@ -169,8 +169,8 @@ Finally, the shuttles reached the docking hub, and moved in to dock with the sta
 
 The hub led to the central area, where the initial boarding party had remained since the encounter with Alpha (except for Enman, of course, who had made a brief excursion to plant the portable beacon near the docking hub). During the time the pair of shuttles took to transit to the station, Alpha had made active six additional terminals, bringing the total count up to twelve; the exact number of Operations and Sciences crewkerbs aboard the _Scalpel_.
 
-`The terminals are active and ready for you to commence your research. After I have finished speaking, Commander Enman will show you to your berths. Meals, which are from the station&#39;s food stores, will be served thrice a day.`
+`The terminals are active and ready for you to commence your research. After I have finished speaking, Commander Enman will show you to your berths. Meals, which are from the station's food stores, will be served thrice a day.`
 
 At this, there was much jubilation among the crew; they had eaten nothing but algae paste and vegetables for ten years, and they were ready for a change.
 
-`My speech has concluded. Commander, if you&#39;ll show the scientists to their berths. It is late, and you must be well-rested in order to efficiently assimilate information.`
+`My speech has concluded. Commander, if you'll show the scientists to their berths. It is late, and you must be well-rested in order to efficiently assimilate information.`
