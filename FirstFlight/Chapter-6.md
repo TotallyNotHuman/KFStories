@@ -95,7 +95,7 @@ Within minutes, the autopilot brought them to a depressurized airlock. Enman man
 
 The station&#39;s interior was rather spartan; there were only a few computer terminals scattered here and there, airlocks leading to and from the interior, and a somewhat large screen at the center. However, something completely unexpected happened; upon the boarding party&#39;s entry, the station&#39;s artificial intelligence awakened, and issued forth a verbal message in – surprisingly – perfectly fluent and standard Kerblish.
 
-`Relay Alpha artificial intelligence system activated. Three sapient life forms detected. Species identification subroutine engaged. Species identification successful: Kerbal sapiens.`
+`Relay Alpha artificial intelligence system activated. Three sapient life forms detected. Species identification subroutine engaged. Species identification successful: Kerbalis boosterificus.`
 
 Enman addressed the AI. &quot;I am Commander Christopher Enman of the starship _Scalpel_, the flagship of the Kerbin Fleet. We hail from a star named Kerbol, ten light-years distant. The _Scalpel_ is on an exploratory mission.&quot;
 
